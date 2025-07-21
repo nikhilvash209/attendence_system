@@ -40,6 +40,9 @@ A Python-based face recognition attendance system using `face_recognition`, `Ope
 Place student face images (named like John_Doe.jpg) inside known_faces/
 
 Add their info in students_info.csv:
+
 ID,Name,Department
+
 101,John Doe,CSE
+
 102,Jane Smith,ECE
