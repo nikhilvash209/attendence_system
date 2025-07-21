@@ -6,3 +6,25 @@ known_faces/*.png
 # (Optional) Ignore data files if you want to keep attendance and student data private
 attendance.csv
 students_info.csv
+
+
+# Common heavy folders
+node_modules/
+dist/
+build/
+__pycache__/
+.venv/
+env/
+.vscode/
+
+# Large file types to ignore
+*.log
+*.csv
+*.tsbuildinfo
+*.tmp
+*.bak
+
+# IDE files
+*.swp
+.DS_Store
+Thumbs.db
