@@ -18,9 +18,13 @@ A Python-based face recognition attendance system using `face_recognition`, `Ope
 
 ## 📁 Folder Structure
 ├── attendance_system_Version2.py # Main Python script
+
 ├── known_faces/ # Folder with face images (not uploaded)
+
 ├── students_info.csv # CSV with ID, Name, Department
+
 ├── attendance.csv # Output attendance log
+
 ├── .gitignore # Hides images or sensitive files
 
 
