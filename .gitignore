@@ -1,0 +1,8 @@
+# Ignore all image files in known_faces folder
+known_faces/*.jpg
+known_faces/*.jpeg
+known_faces/*.png
+
+# (Optional) Ignore data files if you want to keep attendance and student data private
+attendance.csv
+students_info.csv
